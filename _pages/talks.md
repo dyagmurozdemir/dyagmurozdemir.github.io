@@ -12,6 +12,9 @@ redirect_from:
 I have presented my work at prestigious conferences such as CIST, WITS, WISE, SCECR, ICIS, WCBA, and INFORMS.
 
 ## Refereed Conference Presentations
+* Doctor + AI: Rethinking Medical Communication for the Digital Age, Conference on Health IT and Analytics (CHITA), May, 2026, Washington, D.C.
+* Is Generative AI Anchoring a Blessing or a Curse?, Statistical Challenges in Electronic Commerce Research (SCECR), June, 2025, Paphos, Cyprus.
+* Doctor + AI: Rethinking Medical Communication for the Digital Age, Statistical Challenges in Electronic Commerce Research (SCECR), June, 2025, Paphos, Cyprus.
 * The Axiomatic Characterization of Novelty, Workshop on Information Technologies and Systems (WITS), December, 2024, Bangkok, Thailand
 *	What People Think of Machines as Doctors: Unveiling the Value of Gen-AI for e-Health, Workshop on Information Systems and Economics (WISE), December, 2024, Bangkok, Thailand
 * What People Think of Machines as Doctors: Unveiling the Value of Gen-AI for e-Health, Statistical Challenges in Electronic Commerce Research (SCECR), June, 2024, Lisbon, Portugal
@@ -24,7 +27,7 @@ I have presented my work at prestigious conferences such as CIST, WITS, WISE, SC
 ## Invited Talks 
 *  What People Think of Machines as Doctors: Unveiling the Value of Gen-AI for e-Health, INFORMS Annual Meeting, October, 2024, Seattle, WA.
 *  What People Think of Machines as Doctors: Unveiling the Value of Gen-AI for e-Health, ZEW – Leibniz-Zentrum für Europäische Wirtschaftsforschung, September, 2024, Mannheim.
-* Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, Tilburg Universtiy, December, 2022.
+* Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, Tilburg University, December, 2022.
 * Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, Nova School of Business and Economics, December, 2022.
 * Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, Catolica Lisbon School of Business and Economics, December, 2022.
 * Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, University of Illinois Urbana-Champaign, December, 2022.
