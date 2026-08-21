@@ -10,6 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ## Teaching Experience
+Programming for Managers. Spring 2026, Enrollment: 45. Instructor Evaluation: 5.00/5.00. 
+
+Data Management and Ethics. Fall 2025, Enrollment: 159. Instructor Evaluation: -/5.00. 
+
+Programming for Managers. Spring 2025, Enrollment: 60. Instructor Evaluation: 4.8/5.00. 
+
 Data Management and Ethics. Fall 2024, Enrollment: 124. Instructor Evaluation: 4.2/5.00. 
 			
 Programming for Managers. Spring 2024, Enrollment: 65. Instructor Evaluation: 4.8/5.00. 
